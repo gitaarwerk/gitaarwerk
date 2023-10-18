@@ -3,7 +3,7 @@
 I'm [Jordy](https://www.spacecorp.nl/), a passionate developer from Leiden, the Netherlands. Welcome to my GitHub profile!
 
 ## Please sponsor my project:
-[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red)](https://github.com/sponsors/js-gleamy)
+![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red)](https://github.com/sponsors/js-gleamy)
 
 
 ## 🔧 Technologies
