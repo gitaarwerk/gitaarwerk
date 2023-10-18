@@ -2,6 +2,10 @@
 
 I'm [Jordy](https://www.spacecorp.nl/), a passionate developer from Leiden, the Netherlands. Welcome to my GitHub profile!
 
+## Please sponsor my project:
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red)](https://github.com/sponsors/js-gleamy)
+
+
 ## 🔧 Technologies
 I'm mainly a front-end developer, but I rather be just called, a developer. Because a language is just a tool to get something done. But languages/technologies I do are:
 Expert: JavaScript, React, TypeScript, HTML, CSS, CI/CD, 
