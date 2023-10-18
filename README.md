@@ -36,14 +36,11 @@ Noob level: C++, Electornics, Microprocessors, systems hacking
 
 <!-- Coding Stats -->
 ## Coding Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact&theme=dark)
-![Coding Activity](https://github-readme-stats.vercel.app/api/wakatime?username=johndoe&layout=compact&theme=dark)
-
-<!-- Visitors Counter -->
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=johndoe.johndoe)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gitaarwerk&layout=compact&theme=dark)
+![Coding Activity](https://github-readme-stats.vercel.app/api/wakatime?username=gitaarwerk&layout=compact&theme=dark)
 
 <!-- GitHub Trophies -->
-[![Trophies](https://github-profile-trophy.vercel.app/?username=johndoe&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=gitaarwerk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!---
