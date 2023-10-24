@@ -34,7 +34,7 @@ Noob level: C++, Electornics, Microprocessors, systems hacking
 
 ## 👨‍🏫 Things I like to share to teach others
 - [Third party check-list](https://github.com/gitaarwerk/third-party-fe-script-checklist): A check-list that helps you to decide wether or not a third party script should be implemented or need some more adjustments.
-- [Writing CSS for readavility](https://github.com/gitaarwerk/write-css-for-readability-and-compression): My theorie on writing proper CSS class-names.
+- [Writing CSS for readability](https://github.com/gitaarwerk/write-css-for-readability-and-compression): My theorie on writing proper CSS class-names.
 - [SVGPwnage](https://github.com/gitaarwerk/svgpwnage): A self-made hack to demonstrate a way of malicious code and how to prevent this.
 
 
