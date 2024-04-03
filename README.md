@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @gitaarwerk (🎸👷)
 
-I'm [Jordy](https://www.spacecorp.nl/), a passionate developer from Leiden, the Netherlands. Welcome to my GitHub profile!
+I'm a passionate developer from Leiden, the Netherlands.
 
 ## Please sponsor my project Gleamy, a shiney component library, and help make the internet less boring:
 [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red)](https://github.com/sponsors/gleamy-js)
