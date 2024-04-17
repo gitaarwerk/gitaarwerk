@@ -3,6 +3,11 @@
 I'm a passionate developer from Leiden, the Netherlands.
 
 ## Please sponsor my project Gleamy, a shiney component library, and help make the internet less boring:
+Have you ever heard of Gleamy? It's that cool effect stuff that you had on wrapping paper, business cards,... BUT THEN ON YOUR WEBSITE!
+And you know what? I'ts **FREE** and **OPEN SOURCE!**. You can make your logo shine, or add a dash of luxury to your site/app.
+
+Try it out at https://gleamy.dev/
+
 [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red)](https://github.com/sponsors/gleamy-js)
 
 
@@ -15,7 +20,7 @@ Noob level: C++, Electornics, Microprocessors, systems hacking
 
 ## 🌱 I'm Currently Learning, in any ordeer and switching whenever I feel like
 - Offensive hacking (you need to break things in order to make things)
-- C++ for embedded systems (arduino, pico pi; because it's fun!)
+- LAnguages for embedded systems (arduino, pico pi, ESP32; because it's fun!)
 - HTML5 Canvas & Mathematics (As I never focussed on this, and math is fun)
 - Learning to play piano & guitar (to get away from the computer every so often)
 
