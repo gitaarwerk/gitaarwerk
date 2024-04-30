@@ -20,7 +20,7 @@ Noob level: C++, Electornics, Microprocessors, systems hacking
 
 ## 🌱 I'm Currently Learning, in any ordeer and switching whenever I feel like
 - Offensive hacking (you need to break things in order to make things)
-- LAnguages for embedded systems (arduino, pico pi, ESP32; because it's fun!)
+- Languages for embedded systems (arduino, pico pi, ESP32; because it's fun!)
 - HTML5 Canvas & Mathematics (As I never focussed on this, and math is fun)
 - Learning to play piano & guitar (to get away from the computer every so often)
 
@@ -41,7 +41,7 @@ Noob level: C++, Electornics, Microprocessors, systems hacking
 - [Third party check-list](https://github.com/gitaarwerk/third-party-fe-script-checklist): A check-list that helps you to decide wether or not a third party script should be implemented or need some more adjustments.
 - [Writing CSS for readability](https://github.com/gitaarwerk/write-css-for-readability-and-compression): My theorie on writing proper CSS class-names.
 - [SVGPwnage](https://github.com/gitaarwerk/svgpwnage): A self-made hack to demonstrate a way of malicious code and how to prevent this.
-
+- [ESP32-taken]([https://github.com/gitaarwerk/svgpwnage](https://github.com/gitaarwerk/esp32-taken)): An ESP32 captive portal project to mimic company portals for login phishing
 
 <!-- Coding Stats -->
 ## Coding Stats
