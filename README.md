@@ -33,7 +33,8 @@ Noob level: C++, Electornics, Microprocessors, systems hacking
 - [Express your Elf](https://github.com/gitaarwerk/express-your-elf): World of Warcraft addon to start awkward conversations.
 - [AFK Answering machine](https://github.com/gitaarwerk/afk-answering-machine): World of Warcraft addon to answer for you while AFK.
 - [Nurse Nancy](https://github.com/gitaarwerk/nurse-nancy): World of Warcraft addon to announce when you are ressurrecting your allies.
-- [Master & Commander](https://github.com/gitaarwerk/master-and-commander): World of Warcraft addon that gives you an interface that shows you cool-downs of your abilities within an artsy stained-glass panel.
+- [I-Taunted](https://github.com/gitaarwerk/i-taunted): World of Warcraft addon to announce when you taunted a mob or boss. 
+- [Divine Window](https://github.com/gitaarwerk/divine-windw): World of Warcraft addon that gives you an interface that shows you cool-downs of your abilities within an artsy stained-glass panel.
 - [Red Alert 1 maps](https://github.com/gitaarwerk/red-alert-1-maps): Some designed Command & Conquer: Red Alert 1 maps.
   
 
