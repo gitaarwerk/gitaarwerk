@@ -44,6 +44,10 @@ Noob level: C++, Electornics, Microprocessors, systems hacking
 - [SVGPwnage](https://github.com/gitaarwerk/svgpwnage): A self-made hack to demonstrate a way of malicious code and how to prevent this.
 - [ESP32-taken]([https://github.com/gitaarwerk/svgpwnage](https://github.com/gitaarwerk/esp32-taken)): An ESP32 captive portal project to mimic company portals for login phishing
 
+## Interested in board games? 
+I love board games, but I even love making additions too. Check out "Pennautier", the name under which home brewed Carcassonne expensions will be. Other than just game rules, new content will be added in forms of printables/makeables. Non-profit, more fun.
+- [Pennautier, Open source Carcasonne expansions](https://github.com/Pennautier). Check out "The ritualists". 
+
 <!-- Coding Stats -->
 ## Coding Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gitaarwerk&layout=compact&theme=dark)
