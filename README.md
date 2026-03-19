@@ -14,9 +14,10 @@ Mid-level: Linux, Networking
 Noob level: C++, Electornics, Microprocessors, systems hacking
 
 ## 🌱 I'm Currently Learning, in any ordeer and switching whenever I feel like
+- Java/Kotlin with Spring boot framework
 - Offensive hacking (you need to break things in order to make things)
 - Languages for embedded systems (arduino, pico pi, ESP32; because it's fun!)
-- HTML5 Canvas & Mathematics (As I never focussed on this, and math is fun)
+- HTML5 Canvas & WebGL & Mathematics (As I never focussed on this, and math is fun)
 - Learning to play piano & guitar (to get away from the computer every so often)
 
 ## 💼 Projects
