@@ -42,7 +42,7 @@ Noob level: C++, Electornics, Microprocessors, systems hacking
 
 ## Currently, I am modelling different 3d-models you can download
 At the moment, there's a need to improve a couple of things in and around the house that could need improvemen. Rather than ordering one item that gives a higher carbon footprint, I try to design these things and share with you. Download them here:
-- https://makerworld.com/en/@spacecorp or https://www.printables.com/@SpaceCorp_2112335
+- https://makerworld.com/en/@spacecorp
 
 ## Interested in board games? 
 I love board games, but I even love making additions too. Check out "Pennautier", the name under which home brewed Carcassonne expensions will be. Other than just game rules, new content will be added in forms of printables/makeables. Non-profit, more fun.
