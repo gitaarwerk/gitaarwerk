@@ -2,13 +2,8 @@
 
 I'm a passionate developer from Leiden, the Netherlands.
 
-## Please sponsor my project Gleamy, a shiney component library, and help make the internet less boring:
-Have you ever heard of Gleamy? It's that cool effect stuff that you had on wrapping paper, business cards,... BUT THEN ON YOUR WEBSITE!
-And you know what? I'ts **FREE** and **OPEN SOURCE!**. You can make your logo shine, or add a dash of luxury to your site/app.
-
-Try it out at https://gleamy.dev/
-
-[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red)](https://github.com/sponsors/gleamy-js)
+## Latest work in partnership: Presets for Chase Bliss
+This is an app that is a community driven preset bank for all Chase Bliss pedals. The app is free, download it at: https://presetsforchasebliss.com/app
 
 
 ## 🔧 Technologies
