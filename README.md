@@ -22,9 +22,6 @@ Noob level: C++, Electornics, Microprocessors, systems hacking
 
 ## 💼 Projects
 
-### 💅 Front-end projects
-- [Gleamy](https://github.com/gleamy-js/gleamy): An open-source react component library to make things shine and glitter. From buttons to logos.
-
 ### Game addons
 - [Express your Elf](https://github.com/gitaarwerk/express-your-elf): World of Warcraft addon to start awkward conversations.
 - [AFK Answering machine](https://github.com/gitaarwerk/afk-answering-machine): World of Warcraft addon to answer for you while AFK.
