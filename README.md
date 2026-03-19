@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @gitaarwerk (🎸👷)
 
-I'm a passionate developer from Leiden, the Netherlands.
+I'm a developer from Leiden, the Netherlands.
 
 ## Latest work in partnership: Presets for Chase Bliss
 This is an app that is a community driven preset bank for all Chase Bliss pedals. The app is free, download it at: https://presetsforchasebliss.com/app
